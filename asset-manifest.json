@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.cee186dd.css",
-    "main.js": "/my-app/static/js/main.063ba13a.js",
-    "index.html": "/my-app/index.html",
-    "main.cee186dd.css.map": "/my-app/static/css/main.cee186dd.css.map",
-    "main.063ba13a.js.map": "/my-app/static/js/main.063ba13a.js.map"
+    "main.css": "/Redux_Toolkit/static/css/main.cee186dd.css",
+    "main.js": "/Redux_Toolkit/static/js/main.063ba13a.js",
+    "index.html": "/Redux_Toolkit/index.html",
+    "main.cee186dd.css.map": "/Redux_Toolkit/static/css/main.cee186dd.css.map",
+    "main.063ba13a.js.map": "/Redux_Toolkit/static/js/main.063ba13a.js.map"
   },
   "entrypoints": [
     "static/css/main.cee186dd.css",
